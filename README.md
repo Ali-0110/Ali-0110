@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali-0110
+- 👋 Hi, I’m Ali Sameh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python && c++
 - 📫 How to reach me linkedin.com/in/ali-sameh-40a658304/
